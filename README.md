@@ -1,12 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Aryan Jadav</h1>
 <h3 align="center">A passionate developer with problem solving skills from India</h3>
 
-<img align="right" alt="coding" widht="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9520q63s19lnxz4jiqjr59wiktwrr9mdk0ik7neaoby&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" widht="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952ctryfyzr713c2eqb0kbfm1z62ylbe4v8xi4kbwcs&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjadav037&label=Profile%20views&color=0e75b6&style=flat" alt="aryanjadav037" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjadav037&label=Profile%20views&color=0eb456&style=plastic" alt="aryanjadav037" /> </p>
 
-- 🌱 I’m currently learning **AI & ML with python, data structures and algorithms(C++)..**
+- 🌱 I’m currently learning **AI & ML with python, DSA(C++)..**
 
 - 📫 How to reach me **aryanjadav081103@gmail.com**
 
