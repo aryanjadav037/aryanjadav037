@@ -12,6 +12,14 @@
 
 - ⚡ Fun fact **"The beautiful thing about learning is that nobody can take it away from you."**
 
+
+---
+---
+---
+---
+
+
+
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ aryan-jadav-607abb26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ aryan-jadav-607abb26a" height="30" width="40" /></a>
