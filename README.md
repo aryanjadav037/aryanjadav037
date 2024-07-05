@@ -9,11 +9,12 @@
 - 🌱 I’m currently learning **AI & ML with python, DSA(C++)..**
 
 - 📫 How to reach me **aryanjadav081103@gmail.com**
+  
+- 🔭 **Data Science enthusiasts**
 
 - ⚡ Fun fact **"The beautiful thing about learning is that nobody can take it away from you."**
 
 
----
 ---
 ---
 ---
