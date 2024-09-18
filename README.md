@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Jadav</h1>
-<h3 align="center">A passionate developer with problem solving skills from India</h3>
+<h3 align="center">A passionate Software developer with problem solving skills from India</h3>
 
 <img align="right" alt="coding" widht="300" height="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952ctryfyzr713c2eqb0kbfm1z62ylbe4v8xi4kbwcs&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
