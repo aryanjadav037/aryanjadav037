@@ -6,7 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=aryanjadav037&icon=3&color=1)](https://visitcount.itsvg.in)
 
 
-- 🌱 I’m currently learning **AI & ML with python, DSA(C++)..**
+- 🌱 I’m currently Working on various **AI & ML projects with python, and learning DSA with C++..**
 
 - 📫 How to reach me **aryanjadav081103@gmail.com**
   
