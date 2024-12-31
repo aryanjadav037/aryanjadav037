@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Jadav</h1>
-<h3 align="center">Full Stack Developer | AI & ML Enthusiast | Data Science Learner</h3>
+<h3 align="center">MERN Stack Developer | AI & ML Enthusiast | Data Science Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjadav037&label=Profile%20views&color=0eb456&style=plastic" alt="aryanjadav037" /> </p>
 
