@@ -1,34 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aryan Jadav</h1>
-<h3 align="center">MERN Stack Developer | AI & ML Enthusiast | Data Science Learner</h3>
+<h3 align="center">MERN Stack Developer | AI & ML Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjadav037&label=Profile%20views&color=0eb456&style=plastic" alt="aryanjadav037" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Web Development, AI/ML, and Data Science Projects**
+- 🔭 I’m currently working on **Full Stack Web Development Projects**
 
-- 🌱 I’m learning and implementing advanced **AI models**, working with **Machine Learning** frameworks, and developing **end-to-end applications**.
-
-- 💼 I have strong expertise in both frontend and backend technologies, contributing to well-rounded web applications.
+- 🌱 I’m learning and implementing **AI models** & working with **Machine Learning**.
 
 - 📫 How to reach me: **aryanjadav081103@gmail.com**
 
 - ⚡ Fun fact: **"The beautiful thing about learning is that nobody can take it away from you."**
 
----
-
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/aryan-jadav-607abb26a" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://instagram.com/aryan.jadav.2178" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/aryan037" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-</p>
-
----
+</br>
 
 ## Languages and Tools  
 <div align="center">  
@@ -59,10 +42,25 @@
 
 <br/>  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryanjadav037&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryanjadav037&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjadav037&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Connect with me  
+<div align="center">
+<a href="https://x.com/AryanJadav8" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/aryan-jadav-a37j/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/aryan.jadav.2178" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
----
+<br/>  
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aryanjadav037&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aryanjadav037&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjadav037&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 **Thank you for visiting my profile!**
